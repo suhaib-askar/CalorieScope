@@ -1,4 +1,4 @@
-package org.dynamicsoft.healthometer;
+package org.dynamicsoft.CalorieScope.HealthNews;
 
 import org.junit.Test;
 

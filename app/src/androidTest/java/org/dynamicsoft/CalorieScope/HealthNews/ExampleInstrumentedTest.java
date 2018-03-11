@@ -1,4 +1,4 @@
-package org.dynamicsoft.healthometer;
+package org.dynamicsoft.CalorieScope.HealthNews;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.dynamicsoft.healthometer", appContext.getPackageName());
+        assertEquals("org.dynamicsoft.CalorieScope.HealthNews", appContext.getPackageName());
     }
 }
