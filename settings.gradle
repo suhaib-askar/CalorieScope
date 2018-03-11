@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':org.dynamicsoft.accelerometer-step-counter'
